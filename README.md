@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/img/banner.png" alt="MR- Standee Portrait · El retrato de cada personaje de cuerpo entero junto a su ficha" width="100%">
+</p>
+
 # MR- Standee Portrait
 
 <p align="center">
@@ -14,6 +18,21 @@ Módulo para [Foundry VTT](https://foundryvtt.com/) que muestra el retrato de cu
 Funciona con **cualquier sistema de juego**: no depende de la plantilla ni del CSS propio de cada hoja, solo engancha en el render de la ficha de actor y añade su propio panel, redimensionando la ventana para hacerle sitio.
 
 > **¿Vienes de «Standee Portrait» (`standee-portrait`)?** El módulo se ha renombrado a **MR- Standee Portrait** (id `mr-standee-portrait`). Foundry trata un id nuevo como otro paquete, así que hay que instalar este y desactivar/desinstalar el antiguo. Al cargar un mundo, el GM migra automáticamente los ajustes guardados en cada personaje (se copian, no se borran).
+
+## Así se ve
+
+Misma ficha, sin y con el módulo (el arte es un personaje de [Ocho Lanzas](https://github.com/ManuRomera/ocho-lanzas) recortado del fondo):
+
+<p align="center">
+  <img src="docs/img/antes.png" alt="Ficha de personaje normal, con el retrato dentro de su marco" width="40%">
+  <img src="docs/img/dentro.png" alt="Con el standee activado: la figura recortada integrada en la ficha" width="52%">
+</p>
+
+Y en modo «Fuera, al lado», con la ventana de ajustes abierta (posición, imágenes, zoom y bandera de fondo):
+
+<p align="center">
+  <img src="docs/img/fuera-y-ajustes.png" alt="Standee fuera de la ficha y panel flotante de ajustes en directo" width="80%">
+</p>
 
 ## Instalación
 
