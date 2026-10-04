@@ -1,5 +1,12 @@
 # MR- Standee Portrait
 
+<p align="center">
+  <a href="https://github.com/ManuRomera/mr-standee-portrait/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/ManuRomera/mr-standee-portrait?include_prereleases&style=for-the-badge&color=5b7fd6&label=release"></a>
+  <a href="https://foundryvtt.com"><img alt="Foundry VTT V12 – V13" src="https://img.shields.io/badge/Foundry%20VTT-V12%20%E2%80%93%20V13-57d8c8?style=for-the-badge"></a>
+  <a href="https://github.com/ManuRomera/mr-standee-portrait/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/ManuRomera/mr-standee-portrait/total?style=for-the-badge&color=ff7a1f"></a>
+  <img alt="System" src="https://img.shields.io/badge/system-agnostic-2b3245?style=for-the-badge">
+</p>
+
 > ⚠️ **WIP — Trabajo en curso.** Este módulo está en desarrollo activo. La funcionalidad básica ya funciona, pero puede haber cambios de comportamiento entre versiones y aún no está probado a fondo en todos los sistemas de juego. Úsalo en mundos de prueba antes de un mundo de partida activa, y abre un [issue](https://github.com/ManuRomera/mr-standee-portrait/issues) si algo falla.
 
 Módulo para [Foundry VTT](https://foundryvtt.com/) que muestra el retrato de cualquier ficha de personaje como una **figura recortada a cuerpo entero** que sobresale del marco de la hoja, con una **imagen de fondo tipo bandera** detrás. Todo es ajustable (tamaño, zoom, posición y opacidad) y se guarda por personaje.
