@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/img/banner.png" alt="MR- Standee Portrait · El retrato de cada personaje de cuerpo entero junto a su ficha" width="100%">
+  <img src="docs/img/banner.png" alt="MR- Standee Portrait · Los héroes de Los Abuelos de la Justicia como figuras recortadas" width="100%">
 </p>
 
 # MR- Standee Portrait
@@ -21,7 +21,7 @@ Funciona con **cualquier sistema de juego**: no depende de la plantilla ni del C
 
 ## Así se ve
 
-Misma ficha, sin y con el módulo (el arte es un personaje de [Ocho Lanzas](https://github.com/ManuRomera/ocho-lanzas) recortado del fondo):
+Misma ficha, sin y con el módulo. El arte son héroes de [Los Abuelos de la Justicia](https://github.com/ManuRomera/los-abuelos-de-la-justicia) (PNG con fondo transparente, que es lo que mejor funciona) y la bandera de fondo es un gallardete de ejemplo.
 
 <p align="center">
   <img src="docs/img/antes.png" alt="Ficha de personaje normal, con el retrato dentro de su marco" width="40%">
