@@ -21,17 +21,17 @@ Funciona con **cualquier sistema de juego**: no depende de la plantilla ni del C
 
 ## Así se ve
 
-Misma ficha, sin y con el módulo. El arte son héroes de [Los Abuelos de la Justicia](https://github.com/ManuRomera/los-abuelos-de-la-justicia) (PNG con fondo transparente, que es lo que mejor funciona) y la bandera de fondo es un gallardete de ejemplo.
+Misma ficha, sin y con el módulo. Aquí con el sistema [IMSERSO to the limit](https://github.com/ManuRomera/imserso-to-the-limit) y Bonifacio, de la aventura [Los Abuelos de la Justicia](https://github.com/ManuRomera/los-abuelos-de-la-justicia) (PNG con fondo transparente, que es lo que mejor funciona). La bandera de fondo es un gallardete de ejemplo.
 
 <p align="center">
-  <img src="docs/img/antes.png" alt="Ficha de personaje normal, con el retrato dentro de su marco" width="40%">
-  <img src="docs/img/dentro.png" alt="Con el standee activado: la figura recortada integrada en la ficha" width="52%">
+  <img src="docs/img/antes.png" alt="Ficha de IMSERSO to the limit sin el módulo: el retrato queda como una miniatura" width="40%">
+  <img src="docs/img/dentro.png" alt="Con el standee activado: Bonifacio de cuerpo entero con su bandera junto a la ficha" width="58%">
 </p>
 
 Y en modo «Fuera, al lado», con la ventana de ajustes abierta (posición, imágenes, zoom y bandera de fondo):
 
 <p align="center">
-  <img src="docs/img/fuera-y-ajustes.png" alt="Standee fuera de la ficha y panel flotante de ajustes en directo" width="80%">
+  <img src="docs/img/fuera-y-ajustes.png" alt="Standee fuera de la ficha sobre la escena del autocar y panel flotante de ajustes en directo" width="90%">
 </p>
 
 ## Instalación
