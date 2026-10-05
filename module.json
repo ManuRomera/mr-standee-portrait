@@ -2,7 +2,7 @@
   "id": "mr-standee-portrait",
   "title": "MR- Standee Portrait",
   "description": "Muestra el retrato del personaje como una figura recortada (standee) que sobresale de la ficha, con una imagen de fondo tipo bandera detrás, totalmente ajustable en tamaño, posición y opacidad. Funciona con cualquier sistema de juego.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "authors": [
     {
       "name": "Manu Romera",
@@ -14,7 +14,8 @@
     "verified": "13"
   },
   "esmodules": [
-    "scripts/mr-standee-portrait.js"
+    "scripts/mr-standee-portrait.js",
+    "scripts/mr-credits.mjs"
   ],
   "styles": [
     "styles/mr-standee-portrait.css"
